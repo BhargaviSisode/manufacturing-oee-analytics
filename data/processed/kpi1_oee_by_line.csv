@@ -1,0 +1,4 @@
+production_line,total_shifts,avg_availability_pct,avg_performance_pct,avg_quality_pct,line_oee_pct
+MCH_L3,427,97.36,92.75,96.99,87.57
+MCH_L1,379,97.41,92.78,97.06,87.71
+MCH_L2,394,97.61,92.95,97.05,88.06

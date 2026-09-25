@@ -1,0 +1,5 @@
+downtime_reason,stoppage_events,total_lost_minutes,pct_share_of_downtime,cumulative_pct,maintenance_triage_priority
+Tool Breakdown,135,5663.0,38.66,38.66,Primary Focus (Top 80%)
+Material Starvation,85,3454.0,23.58,62.23,Primary Focus (Top 80%)
+Calibration Lag,67,3007.0,20.53,82.76,Secondary Minor Cause
+Pressure Loss,56,2526.0,17.24,100.0,Secondary Minor Cause
