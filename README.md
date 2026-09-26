@@ -1,1 +1,1 @@
-[![Streamlit App](https://manufacturing-oee-analytics-sndsw3jtba9smajtnbedxh.streamlit.app/)
+https://manufacturing-oee-analytics-sndsw3jtba9smajtnbedxh.streamlit.app/
